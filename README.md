@@ -3,7 +3,7 @@ VIGALL is an AddIn for BrainVision Analyzer 2.0 that automates EEG vigilance ana
 
 VIGALL was developed at the Department of Psychiatry of Leipzig University (http://psychiatrie.uniklinikum-leipzig.de/) with support of the Leipzig Research Center for Civilisation Diseases (http://life.uni-leipzig.de/). The latest Version (VIGALL 2.1) was developed and validated at the Research Centre of the German Depression Foundation (https://www.deutsche-depressionshilfe.de/).
 
-The intellectual property right lies with Professor Ulrich Hegerl, who led the project and both the Department of Psychiatry and the Ferman Depression Foundation.
+The intellectual property right lies with Professor Ulrich Hegerl, who led the project and both the Department of Psychiatry and the German Depression Foundation.
 
 ## Getting Started
 This was built in Microsoft Visual Studio so it might be easiest to use that. Set up the project to produce a DLL for the Analyzer executable.
